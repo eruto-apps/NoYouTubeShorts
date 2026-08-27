@@ -13,10 +13,10 @@
 		"fix:code": "biome lint --apply ./"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.5.8",
+		"@biomejs/biome": "^2.5.10",
 		"@crxjs/vite-plugin": "^2.7.1",
-		"@types/chrome": "^0.2.5",
+		"@types/chrome": "^0.2.7",
 		"typescript": "^7.0.2",
-		"vite": "^8.0.0"
+		"vite": "^8.2.2"
 	}
 }
